@@ -276,7 +276,7 @@
                             android:layout_toRightOf="@+id/sort"
                             android:layout_alignParentBottom="true"
                             android:layout_centerHorizontal="true"
-                            android:layout_marginLeft="210dp"
+                            android:layout_marginLeft="209dp"
                             android:src="@drawable/diamond_9"/>
                         <ImageView
                             android:id="@+id/card5"
